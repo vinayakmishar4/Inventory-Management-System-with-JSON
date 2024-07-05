@@ -8,3 +8,8 @@
      Update Inventory Items: Modify existing inventory items' details as needed.
      JSON Storage: Utilizes JSON for data storage, ensuring compatibility and ease of use.
      User-Friendly Interface: Simple and intuitive interface for managing inventory.
+# Requirements
+    Python 3.x
+  
+    Basic knowledge of file handling in Python
+
